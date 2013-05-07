@@ -4,6 +4,7 @@
  * FTPConnection
  * 
  * @autor Sebastian Klüh (http://sklueh.de)
+ * @license LGPL
  * 
  * Example 1 - Single file upload:
  * $oFTP = new FTPConnection('sklueh.de', 'username', 'password');
