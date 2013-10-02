@@ -21,3 +21,7 @@ var_dump($oFTP->uploadFiles($aFiles, '/my_dir/sub_dir')); //true
 $oFTP = new FTPConnection('sklueh.de', 'username', 'password');
 var_dump($oFTP->uploadDirectory('./example-dir1', '/')); //true
 ```
+
+For more information visit the following link: 
+
+http://sklueh.de/2013/05/php-einfacher-ftp-upload-mit-der-klasse-ftpconnection/
